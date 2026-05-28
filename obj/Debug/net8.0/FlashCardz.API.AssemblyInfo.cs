@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlashCardz.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1797e97e78fd194d9c02183f396bca6279c53e60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d1242f8a998463cd0182648ce746d662d00640b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlashCardz.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlashCardz.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
